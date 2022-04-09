@@ -8,7 +8,7 @@ Visualizing historical and current distributions of the jaguar [(Palmeira 2015).
 
 - [Database `.csv`](https://github.com/fblpalmeira/jaguar_distribution/blob/main/jaguar_distribution.csv)
 
-<img src="https://github.com/fblpalmeira/jaguar_distribution/blob/main/jaguar_distribution.gif">
+<img src="https://github.com/fblpalmeira/jaguar_distribution/blob/main/jaguar_distribution_video.gif">
 
 References: 
 
