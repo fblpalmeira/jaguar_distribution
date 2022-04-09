@@ -6,7 +6,7 @@
 
 
 
-- [Script `.R`]()
+- [Script `.R`](https://github.com/fblpalmeira/jaguar_distribution/blob/main/jaguar_distribution.R)
 
 - [Database `.csv`]()
 
