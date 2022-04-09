@@ -2,9 +2,7 @@
 
 # Day 7 (7 April 2022) | Physical
 
-## 
-
-
+Visualizing historical and current distributions of the jaguar [(Palmeira 2015).](https://www.teses.usp.br/teses/disponiveis/11/11150/tde-17092015-111206/publico/Francesca_Belem_Lopes_Palmeira_versao_revisada.pdf)
 
 - [Script `.R`](https://github.com/fblpalmeira/jaguar_distribution/blob/main/jaguar_distribution.R)
 
